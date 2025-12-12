@@ -78,7 +78,8 @@ This schema mirrors the logic of blockchain analytics platforms (Dune, Nansen, E
 ## 🔗 Full Project Write-Up
 
 For the full explanation, ERD breakdown, screenshots, and conceptual insights:  
-👉 **[View full project on my Notion Portfolio]([YOUR_NOTION_PROJECT_LINK_HERE](https://www.notion.so/Ethereum-Blockchain-Relational-Database-SQL-Project-2c3388b7f1a680ed8567e9019be62750))**
+👉 **[View full project on my Notion Portfolio](https://healthy-scowl-eac.notion.site/Tyler-Dawson-Data-Portfolio-2c3388b7f1a6806da9e9e365aaefd466?source=copy_link)
+**
 
 ---
 
